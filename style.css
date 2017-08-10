@@ -1,0 +1,28 @@
+header{
+	font-size:50pt;
+	font-family:Purisa;
+	text-align: center;
+}
+body{
+	font-family:Purisa;
+	background-image:url(hehe.jpg);
+}
+
+article{
+	float:left;
+	width:50%;
+	text-align:center;
+	color:black;
+}
+.banner{
+	font-size:40pt;
+}
+
+img{
+	width:250px;
+	border:1px solid black;
+}
+section{
+	margin:10px;
+	clear:both;
+}
