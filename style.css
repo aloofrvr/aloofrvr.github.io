@@ -1,5 +1,5 @@
 header{
-	font-size:50pt;
+	font-size:20pt;
 	font-family:Purisa;
 	text-align: center;
 }
@@ -9,7 +9,7 @@ body{
 }
 
 article{
-	float:left;
+	margin:auto;
 	width:50%;
 	text-align:center;
 	color:black;
@@ -24,6 +24,6 @@ img{
 	margin:auto;
 }
 section{
-	margin:10px;
+	margin:auto;
 	clear:both;
 }
