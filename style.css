@@ -5,7 +5,7 @@ header{
 }
 body{
 	font-family:Purisa;
-	background-image:url(hehe.jpg);
+
 }
 
 article{
@@ -21,7 +21,7 @@ article{
 img{
 	width:250px;
 	border:1px solid black;
-	
+	margin:auto;
 }
 section{
 	margin:10px;
